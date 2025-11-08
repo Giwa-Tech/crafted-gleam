@@ -7,11 +7,11 @@ import { ExternalLink } from "lucide-react";
 
 const projects = [
   {
-    title: "E-Commerce Platform",
-    description: "Modern shopping experience with seamless checkout flow and personalized recommendations.",
-    image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&q=80",
+    title: "Bingwa Sokoni Hub",
+    description: "A comprehensive digital services platform where you can purchase airtime, data bundles, SMS packages, and make Lipa na M-Pesa till payments seamlessly.",
+    image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&q=80",
     link: "https://bingwasokoni-gamma.vercel.app/",
-    tags: ["UI/UX", "React", "E-Commerce"],
+    tags: ["React", "M-Pesa", "Digital Services", "E-Commerce"],
   },
   {
     title: "SaaS Dashboard",
