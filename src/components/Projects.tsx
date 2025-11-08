@@ -4,12 +4,13 @@ import { useRef } from "react";
 import { Card } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { ExternalLink } from "lucide-react";
+import bingwaSokoniImage from "@/assets/bingwa-sokoni-screenshot.jpg";
 
 const projects = [
   {
     title: "Bingwa Sokoni Hub",
     description: "A comprehensive digital services platform where you can purchase airtime, data bundles, SMS packages, and make Lipa na M-Pesa till payments seamlessly.",
-    image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&q=80",
+    image: bingwaSokoniImage,
     link: "https://bingwasokoni-gamma.vercel.app/",
     tags: ["React", "M-Pesa", "Digital Services", "E-Commerce"],
   },
