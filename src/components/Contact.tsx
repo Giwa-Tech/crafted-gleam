@@ -28,7 +28,10 @@ const Contact = () => {
   };
 
   const handleWhatsApp = () => {
-    window.open("https://wa.me/254700273841", "_blank");
+    const message = encodeURIComponent(
+      "Hello, I just gone through your work and I was impressed, I would like more information.\n\nI am interested in:\n1. Hire me\n2. Request quote\n3. More portfolios\n\nPlease select one option above."
+    );
+    window.open(`https://wa.me/254700273841?text=${message}`, "_blank");
   };
 
   return (

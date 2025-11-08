@@ -9,11 +9,8 @@ const Hero = () => {
   };
 
   const handleDownloadCV = () => {
-    // Create a sample CV download - in production, replace with actual CV
-    const link = document.createElement("a");
-    link.href = "#"; // Replace with actual CV URL
-    link.download = "CV.pdf";
-    link.click();
+    // Replace with your actual CV hosted URL
+    window.open("https://your-cv-hosting-site.com/simon-wangai-cv", "_blank");
   };
 
   const handleScheduleCall = () => {
