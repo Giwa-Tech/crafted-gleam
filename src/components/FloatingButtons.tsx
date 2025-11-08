@@ -15,11 +15,11 @@ const FloatingButtons = () => {
   }, []);
 
   const handleWhatsApp = () => {
-    window.open("https://wa.me/2547XXXXXXXX", "_blank");
+    window.open("https://wa.me/254700273841", "_blank");
   };
 
   const handleCall = () => {
-    window.open("tel:+2547XXXXXXXX", "_self");
+    window.open("tel:+254700273841", "_self");
   };
 
   return (

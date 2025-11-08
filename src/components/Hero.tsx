@@ -18,7 +18,7 @@ const Hero = () => {
 
   const handleScheduleCall = () => {
     // In production, integrate with Calendly or similar
-    window.open("tel:+2547XXXXXXXX", "_self");
+    window.open("tel:+254700273841", "_self");
   };
 
   return (
