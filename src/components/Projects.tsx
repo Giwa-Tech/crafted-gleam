@@ -10,7 +10,7 @@ const projects = [
     title: "E-Commerce Platform",
     description: "Modern shopping experience with seamless checkout flow and personalized recommendations.",
     image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&q=80",
-    link: "https://behance.net/yourproject1",
+    link: "https://bingwasokoni-gamma.vercel.app/",
     tags: ["UI/UX", "React", "E-Commerce"],
   },
   {
