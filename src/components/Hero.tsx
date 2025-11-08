@@ -65,7 +65,7 @@ const Hero = () => {
           >
             Hi, I'm{" "}
             <span className="bg-gradient-to-r from-primary via-accent to-secondary bg-clip-text text-transparent animate-glow-pulse">
-              Creative Designer
+              Simon Wangai
             </span>
           </motion.h1>
 
